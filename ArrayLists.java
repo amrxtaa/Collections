@@ -12,7 +12,7 @@ public class ArrayLists {
         /*1
         ArrayList ll=new ArrayList();
         ll.add(10);
-        ll.add("Amrita");
+        ll.add("githubamr");
         ll.add("A");
         ll.add(12.5);
         ll.add(null);
